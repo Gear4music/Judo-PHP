@@ -3,7 +3,7 @@
 namespace spec\Judopay;
 
 use GuzzleHttp\Psr7\Request;
-use PHPUnit\Framework\Assert;
+use PHPUnit_Framework_Assert as Assert;
 use spec\SpecHelper;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
