@@ -17,7 +17,7 @@
     "prefer-stable": true,
     "repositories": [],
     "require": {
-        "php": ">=5.5",
+        "php": ">=5.5 | >=7.0 | >=8.0",
         "guzzlehttp/guzzle": "~6.0 | ^7.0",
         "pimple/pimple": "~3.0",
         "psr/log": "^1.0",
